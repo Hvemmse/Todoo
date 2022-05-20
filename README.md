@@ -12,3 +12,4 @@
  <paragraph index="27" node_type="writer">Måske i en næste version.</paragraph>
  <paragraph index="29" node_type="writer">Hold programmet åben for ikke at miste din liste.</paragraph>
 </indexing>
+Se i dokumentet manual.pdf for yderligere vejledning.
